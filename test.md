@@ -1,11 +1,11 @@
 - where is the  [Ericsson Academy](sourcing_faq)?
 - show me the  [Ericsson Academy](sourcing_faq)?
 - [Ericsson Academy](sourcing_faq)  please?
-- where can i find the [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)?
-- can you show me where the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq) is?
-- where is the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)?
-- show me the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)?
-- [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq) please?
+- where can i find the [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)? test
+- can you show me where the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq) is  test
+- where is the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)?  test
+- show me the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)? test
+- [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq) please? test
 - What does [EB]{"entity": "sourcing_faq", "value": "Ericsson Buyer"} mean?
 - Where is [Ericsson Buyer](sourcing_faq) stored?
 - What is [Ericsson Buyer](sourcing_faq)?
