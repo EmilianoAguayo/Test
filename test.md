@@ -1,0 +1,21 @@
+- where is the  [Ericsson Academy](sourcing_faq)?
+- show me the  [Ericsson Academy](sourcing_faq)?
+- [Ericsson Academy](sourcing_faq)  please?
+- where can i find the [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)?
+- can you show me where the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq) is?
+- where is the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)?
+- show me the  [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq)?
+- [Sourcing Process Document Portal and PtP Document Libraries](sourcing_faq) please?
+- What does [EB]{"entity": "sourcing_faq", "value": "Ericsson Buyer"} mean?
+- Where is [Ericsson Buyer](sourcing_faq) stored?
+- What is [Ericsson Buyer](sourcing_faq)?
+- Who is a [supplier relationship manager](sourcing_faq)?
+- Who is a [SRM]{"entity": "sourcing_faq", "value": "Supplier Relationship Manager"} mean?
+- Ask wolfram who the [CEO](sourcing_faq) of Ericsson is
+- Who is the [CEO](sourcing_faq) of Ericsson?
+- Do you know who is the [CEO](sourcing_faq) of Ericsson?
+- Tell me who is the [CEO](sourcing_faq)
+- Show the name of [CEO](sourcing_faq)
+- Who is the [President]{"entity": "sourcing_faq", "value": "CEO"} of Ericsson?
+- [CEO](sourcing_faq)
+- Where can I find [Customer Security Unit SharePoint](
